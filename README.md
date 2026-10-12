@@ -1,6 +1,6 @@
 # Hi, I'm Mohamad Kahwaji 👋
 
-**Laravel Backend Developer** based in Homs, Syria 🇸🇾  
+**Laravel Backend Developer**
 Building real-world APIs with clean architecture. Open to internships & junior roles.
 
 ---
