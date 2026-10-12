@@ -33,12 +33,7 @@ Location-based professional services platform — AI identity verification, real
 On-duty pharmacy tracker for Homs — live REST API with full test coverage.  
 `Laravel` `Sanctum` `Pest Testing` `15 Feature Tests`
 
----
 
-## 📊 GitHub Stats
-
-![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Kahwaji&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Kahwaji&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
